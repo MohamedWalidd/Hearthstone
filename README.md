@@ -29,7 +29,8 @@ Screen Orientation:
 Current hero is at the bottom of the screen and opponent is at the top
 ----
 How to use heros' powers:
-click on the hero power button in the current hero panel
+click on the hero power button in the current hero panel.
+
 Mage and Priest hero power:
 you must first select target minion before clicking on hero power
 ----
