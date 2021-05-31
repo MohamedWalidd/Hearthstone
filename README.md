@@ -33,3 +33,4 @@ you must first select target minion before clicking on hero power
 ----
 Other heros' powers:
 click on the hero power button in the current hero panel
+
